@@ -2,7 +2,7 @@
 
 **Civil Engineer | Water Resources & Infrastructure | Applied AI/ML**
 
-Results-driven Civil Engineer with 3+ years of combined field and consulting experience spanning water distribution, leakage management, and water supply infrastructure. I bring a strong blend of practical fieldwork, technical analysis, and site supervision, with a proven track record of delivering results across the full project lifecycle — from installation and maintenance to monitoring and reporting. Instrumental in the design and rollout of SCADA systems for large-scale water network monitoring.
+Results-driven Civil Engineer with 5+ years of combined field and consulting experience spanning water distribution, leakage management, and water supply infrastructure. I bring a strong blend of practical fieldwork, technical analysis, and site supervision, with a proven track record of delivering results across the full project lifecycle — from installation and maintenance to monitoring and reporting. Instrumental in the design and rollout of SCADA systems for large-scale water network monitoring.
 
 I've interested in solving problems that lie at the intersection of AI/ML and civil engineering, using Python to simulate and model the same challenges I encounter in the field, from leak detection to sensor placement to pipe inflow identification. I'm committed to continuous learning and eager to apply and expand these skills across water resources engineering and civil engineering more broadly.
 
@@ -12,7 +12,7 @@ I've interested in solving problems that lie at the intersection of AI/ML and ci
 
 ### 🛠️ Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python,c,js,tensorflow&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,c,js,react,next,tensorflow&theme=dark)
 
 **Languages**
 
@@ -53,4 +53,3 @@ Simulated leak scenarios across a benchmark network using WNTR/EPANET, then used
 
 First Class B.Sc. in Civil Engineering, Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Field experience in water loss reduction, SCADA design, and pipe network monitoring with EAP Consult Ltd. and Ghana Water Limited.
 
-<
