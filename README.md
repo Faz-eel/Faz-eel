@@ -53,3 +53,9 @@ Simulated leak scenarios across a benchmark network using WNTR/EPANET, then used
 ![Background](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=Background&fontSize=38&fontColor=ffffff&fontAlignY=55)
 
 First Class B.Sc. in Civil Engineering, Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Field experience in water loss reduction, SCADA design, and pipe network monitoring with EAP Consult Ltd. and Ghana Water Limited.
+
+![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=GitHub%20Stats&fontSize=38&fontColor=ffffff&fontAlignY=55)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faz-eel&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faz-eel&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faz-eel&layout=compact&theme=tokyonight)
