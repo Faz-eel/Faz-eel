@@ -4,14 +4,19 @@
 
 Results-driven Civil Engineer with 3+ years of combined field and consulting experience spanning water distribution, leakage management, and water supply infrastructure. I bring a strong blend of practical fieldwork, technical analysis, and site supervision, with a proven track record of delivering results across the full project lifecycle — from installation and maintenance to monitoring and reporting. Instrumental in the design and rollout of SCADA systems for large-scale water network monitoring.
 
-More recently, I've been drawn to solving problems that lie at the intersection of AI/ML and civil engineering, using Python to simulate and model the same challenges I encounter in the field, from leak detection to sensor placement to pipe inflow identification. I'm committed to continuous learning and eager to apply and expand these skills across water resources engineering and civil engineering more broadly.
+I am interested in solving problems that lie at the intersection of AI/ML and civil engineering, using Python to simulate and model the same challenges I encounter in the field, from leak detection to sensor placement to pipe inflow identification. I'm committed to continuous learning and eager to apply and expand these skills across water resources engineering and civil engineering more broadly.
 
 📫 Reach me at yiahhuaru@gmail.com
 
+<br><br>
 
 ![Tech Stack](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=Tech%20Stack&fontSize=38&fontColor=ffffff&fontAlignY=55)
 
+<br>
+
 ![Python](https://skillicons.dev/icons?i=python,c,js,tensorflow&theme=dark)
+
+<br>
 
 **Languages**
 
@@ -19,6 +24,8 @@ More recently, I've been drawn to solving problems that lie at the intersection 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
 
 **Machine Learning & Data**
 
@@ -29,9 +36,13 @@ More recently, I've been drawn to solving problems that lie at the intersection 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+<br>
+
 **Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<br>
 
 **Water & GIS Tools**
 
@@ -40,22 +51,40 @@ More recently, I've been drawn to solving problems that lie at the intersection 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logoColor=white)
 
+<br><br>
 
 ![Featured Projects](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=Featured%20Projects&fontSize=38&fontColor=ffffff&fontAlignY=55)
+
+<br>
 
 **[Distributed Temperature Sensing for Pipe Inflow Detection](https://github.com/Faz-eel/distributed-temperature-sensing)**
 Simulated a pipe network with a hidden inflow at an unknown location and compared a threshold detector, a random forest, and two convolutional neural network architectures for detecting and locating it — including why a single-output regressor underperformed a position-wise softmax output.
 
+<br>
+
 **[Sensor Placement for Leak Detection in Water Distribution Networks](https://github.com/Faz-eel/sensors)**
 Simulated leak scenarios across a benchmark network using WNTR/EPANET, then used a greedy algorithm to determine optimal pressure logger placement for maximum leak coverage under a limited sensor budget.
 
+<br><br>
 
 ![Background](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=Background&fontSize=38&fontColor=ffffff&fontAlignY=55)
 
+<br>
+
 First Class B.Sc. in Civil Engineering, Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Field experience in water loss reduction, SCADA design, and pipe network monitoring with EAP Consult Ltd. and Ghana Water Limited.
+
+<br><br>
 
 ![GitHub Stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=GitHub%20Stats&fontSize=38&fontColor=ffffff&fontAlignY=55)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faz-eel&show_icons=true&theme=tokyonight)
+<br>
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaib.vercel.app/api?username=Faz-eel&show_icons=true&theme=tokyonight)
+
+<br>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faz-eel&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faz-eel&layout=compact&theme=tokyonight)
+
+<br>
+
+![Top Languages](https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=Faz-eel&layout=compact&theme=tokyonight)
