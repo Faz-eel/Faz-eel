@@ -4,7 +4,7 @@
 
 Results-driven Civil Engineer with 3+ years of combined field and consulting experience spanning water distribution, leakage management, and water supply infrastructure. I bring a strong blend of practical fieldwork, technical analysis, and site supervision, with a proven track record of delivering results across the full project lifecycle — from installation and maintenance to monitoring and reporting. Instrumental in the design and rollout of SCADA systems for large-scale water network monitoring.
 
-I am interested in solving problems that lie at the intersection of AI/ML and civil engineering, using Python to simulate and model the same challenges I encounter in the field, from leak detection to sensor placement to pipe inflow identification. I'm committed to continuous learning and eager to apply and expand these skills across water resources engineering and civil engineering more broadly.
+I am interested in solving problems that lie at the intersection of AI/ML and civil engineering, using Python to simulate and model the same challenges I encounter in the field, from leak detection to sensor placement to pipe inflow identification to flood-risk mapping. I'm committed to continuous learning and eager to apply and expand these skills across water resources engineering and civil engineering more broadly.
 
 📫 Reach me at yiahhuaru@gmail.com
 
@@ -64,6 +64,11 @@ Simulated a pipe network with a hidden inflow at an unknown location and compare
 
 **[Sensor Placement for Leak Detection in Water Distribution Networks](https://github.com/Faz-eel/sensors)**
 Simulated leak scenarios across a benchmark network using WNTR/EPANET, then used a greedy algorithm to determine optimal pressure logger placement for maximum leak coverage under a limited sensor budget.
+
+<br>
+
+**[Flood Extent Prediction and Risk Mapping](https://github.com/Faz-eel/flood-analysis)**
+Built a physics-based localized flood simulator for a synthetic watershed and trained a fully convolutional surrogate model to predict flood extent directly from event location and severity. Used the trained surrogate to run a Monte Carlo sweep across thousands of hypothetical scenarios, producing a probabilistic flood-risk map.
 
 <br><br>
 
